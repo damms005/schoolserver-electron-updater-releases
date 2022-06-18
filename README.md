@@ -3,6 +3,7 @@
 This is a release-only repo for [electron-updater](https://www.electron.build/auto-update).
 
 > **Note**
+> 
 > This repo is an attempt to not have to release the source code of SchoolServer
 
 This repo is to solve this problem. Below is a little backdrop:
