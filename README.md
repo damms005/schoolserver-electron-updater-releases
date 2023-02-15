@@ -12,4 +12,4 @@ electron-updater [does not do well with private GitHub repos](https://github.com
 
 However, public GitHub repos does not suffer from the problems highlighted above; but we currently do not want the SchoolServer source code to be simply available publicly.
 
-Therefore, while SchoolServer source code exits in a [private repo](https://github.com/damms005/schoolserver-quasar), we will build and publish its releases to this public repo for [electron-updater](https://www.electron.build/auto-update) to be happy.
+Therefore, while SchoolServer source code exits in a [private repo](https://github.com/damms005/schoolserver-vite), we will build and publish its releases to this public repo for [electron-updater](https://www.electron.build/auto-update) to be happy.
