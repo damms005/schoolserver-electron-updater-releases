@@ -1,4 +1,4 @@
-# Schoolserver electron-updater releases
+# SchoolServer electron-updater releases
 
 This is a release-only repo for [electron-updater](https://www.electron.build/auto-update).
 
